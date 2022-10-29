@@ -274,7 +274,6 @@ body {
       }
     }
 
-
     #intro {
       width: 80%;
       display: flex;
@@ -346,7 +345,7 @@ body {
         margin: 0 auto 54px;
       }
 
-      ul {
+      .program {
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -354,7 +353,7 @@ body {
         gap: 0.5em;
         margin: auto;
 
-        li {
+        .item {
           display: flex;
           align-items: center;
           justify-content: center;
