@@ -32,7 +32,7 @@ git clone https://github.com/amentetteh/fintech-challenge-final-web-site.git
 
 After downloading source on your local machine, you can simply edit the HTML and CSS files from the folder. To preview the changes you make to the code, you can open the index.html file in your web browser.
 
-[Go Live] (https://amentetteh.github.io/fintech-challenge-final-web-site)
+[Go Live](https://amentetteh.github.io/fintech-challenge-final-web-site)
 
 ### Deployment
 Deploy on any web hosting server cloud/in site and enjoy 
@@ -61,13 +61,12 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+Original design idea by Cindy [Shin in Behance](https://www.behance.net/adagio07).
+
+Original design [here](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015).
 
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
 
 _To know more about, go to [MIT license](https://choosealicense.com/licenses/mit/).
-
