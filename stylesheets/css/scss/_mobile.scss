@@ -539,10 +539,6 @@ body {
 
     //about
 
-    footer {
-      display: none;
-    }
-
     #about-partner {
       display: flex;
       flex-direction: column;
@@ -565,8 +561,12 @@ body {
         align-items: center;
         flex-wrap: wrap;
         gap: 10px;
-        width: 90%;
+        width: 50%;
       }
     }
+  }
+
+  footer {
+    display: none;
   }
 }

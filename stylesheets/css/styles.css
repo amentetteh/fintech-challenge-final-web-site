@@ -557,10 +557,6 @@ body .content #partner {
   display: none;
 }
 
-body .content footer {
-  display: none;
-}
-
 body .content #about-partner {
   display: flex;
   flex-direction: column;
@@ -585,7 +581,11 @@ body .content #about-partner ul {
   align-items: center;
   flex-wrap: wrap;
   gap: 10px;
-  width: 90%;
+  width: 50%;
+}
+
+body footer {
+  display: none;
 }
 
 /* Desktop */
@@ -927,12 +927,25 @@ body .content #about-partner ul {
     margin: 0 auto 54px;
   }
 
-  body .content #partner ul {
+  body .content #partner .partner-list {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
     gap: 10px;
+    width: 50%;
+  }
+
+  body .content #partner .partner-list .partner-list-item {
+    width: 20%;
+    padding-left: 0.5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  body .content #partner .partner-list .partner-list-item .partner-list-item-img {
+    width: 60%;
   }
 
   body footer {

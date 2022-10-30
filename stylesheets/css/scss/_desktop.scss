@@ -353,12 +353,25 @@
           margin: 0 auto 54px;
         }
 
-        ul {
+        .partner-list {
           display: flex;
           justify-content: center;
           align-items: center;
           flex-wrap: wrap;
           gap: 10px;
+          width: 50%;
+
+          .partner-list-item {
+            width: 20%;
+            padding-left: 0.5em;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            .partner-list-item-img {
+              width: 60%;
+            }
+          }
         }
       }
     }
