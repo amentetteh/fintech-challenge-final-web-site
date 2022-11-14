@@ -32,7 +32,7 @@ git clone https://github.com/amentetteh/fintech-challenge-final-web-site.git
 
 After downloading source on your local machine, you can simply edit the HTML and CSS files from the folder. To preview the changes you make to the code, you can open the index.html file in your web browser.
 
-[Go Live](https://amentetteh.github.io)
+[Go Live](https://amentetteh.github.io/fintech-challenge-final-web-site/)
 
 [Video](https://loom.com/share/e8de4bcc3866491cacdad798e0a8b0e0)
 
